@@ -1,0 +1,13 @@
+G04 Gerber job file.*
+%TF.FileFunction,JobInfo*%
+%TF.GenerationSoftware,Autodesk,EAGLE,8.6.0*%
+%TF.CreationDate,2018-02-02T11:48:47Z*%
+%TF.Part,Single*%
+%MOIN*%
+%TJ.B_Owner,Alexey Spirkov <extmail@alsp.net>*%
+%TJ.B_ID,MWInjector*%
+%TJ.B_LayerNum,2*%
+%TJ.B_Thickness,0.061811*%
+%TJ.B_Size_X,1.800000*%
+%TJ.B_Size_Y,1.000000*%
+M02*
